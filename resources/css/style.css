@@ -1,1 +1,40 @@
- 
+* {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+
+  /*reset of browser's default values*/
+  margin: 0;
+  padding: 0;
+}
+.banner h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.banner a {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+
+.header--secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  margin-top: 50px;
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: grey;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+.phone {
+  align-items: center;
+  margin-top: 50px;
+}
